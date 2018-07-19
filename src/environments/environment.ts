@@ -4,6 +4,7 @@
 
 export const environment = {
   production: false
+  //CONEXION A LA BASE
   firebase: {
   	apiKey: "AIzaSyAHymwHwNDtWFs1XTFCqI6ib1k1cb85E4w",
     authDomain: "angular-crud-mm.firebaseapp.com",
